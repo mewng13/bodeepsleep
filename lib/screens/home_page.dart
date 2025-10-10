@@ -431,9 +431,9 @@ class _MyHomePageState extends State<MyHomePage> {
                               moodStatusController.minute15.value = false;
                               moodStatusController.minute30.value = true;
                               moodStatusController.minute60.value = false;
-                              moodBleData.offReserveMood(minute: 30);
+                              moodBleData.offReserveMood(minute: 1);
 
-                              phoneNoti(30, moodStatusController.minute30);
+                              phoneNoti(1, moodStatusController.minute30);
                             }
                           },
                           style: OutlinedButton.styleFrom(

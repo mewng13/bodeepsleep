@@ -1,7 +1,9 @@
+import 'package:assets_audio_player/assets_audio_player.dart';
 import 'package:flutter/cupertino.dart';
 import 'package:flutter/material.dart';
 import 'package:get/get.dart';
 import 'package:intl/intl.dart';
+import 'package:testapp/main.dart';
 import 'package:testapp/models/alarm_data.dart';
 import 'package:testapp/models/mood_status_controller.dart';
 import 'package:testapp/screens/alarm_add_page.dart';
@@ -305,6 +307,7 @@ class _AlarmPageState extends State<AlarmPage> {
                             alarmDataList[index].on = false;
                             moodBleData.writeMood(0x0B, []);
                           });
+                          alarmSetting.cancelAllAlarms();
                         }
                       },
                     ),

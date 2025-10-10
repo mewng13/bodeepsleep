@@ -1,0 +1,50 @@
+com.example.testapp-media-1.6.0-0 /Users/myeongjeong/.gradle/caches/8.10.2/transforms/023226f09dc3d08ec420c13d05aba1bc/transformed/media-1.6.0/res
+com.example.testapp-lifecycle-livedata-core-2.7.0-1 /Users/myeongjeong/.gradle/caches/8.10.2/transforms/07de910142823f029a6feac220e8ca4a/transformed/lifecycle-livedata-core-2.7.0/res
+com.example.testapp-core-runtime-2.2.0-2 /Users/myeongjeong/.gradle/caches/8.10.2/transforms/24b2d70c983456e4678be6d7afa07780/transformed/core-runtime-2.2.0/res
+com.example.testapp-sqlite-2.4.0-3 /Users/myeongjeong/.gradle/caches/8.10.2/transforms/296dec3b0d962a02dd8ed59c1349bb42/transformed/sqlite-2.4.0/res
+com.example.testapp-jetified-window-java-1.2.0-4 /Users/myeongjeong/.gradle/caches/8.10.2/transforms/2a5284c6eeabc2d8b6190c9576956065/transformed/jetified-window-java-1.2.0/res
+com.example.testapp-lifecycle-runtime-2.7.0-5 /Users/myeongjeong/.gradle/caches/8.10.2/transforms/3406eb4cffe3e53bb6d20996e0b4ec87/transformed/lifecycle-runtime-2.7.0/res
+com.example.testapp-room-runtime-2.6.1-6 /Users/myeongjeong/.gradle/caches/8.10.2/transforms/3b17dd0a25a98d3b569bbeaaaf66d428/transformed/room-runtime-2.6.1/res
+com.example.testapp-jetified-tracing-ktx-1.2.0-7 /Users/myeongjeong/.gradle/caches/8.10.2/transforms/3dc5be6b8cd6c3056b55304784998d4b/transformed/jetified-tracing-ktx-1.2.0/res
+com.example.testapp-recyclerview-1.2.1-8 /Users/myeongjeong/.gradle/caches/8.10.2/transforms/4c517d602340f98aaebb2483dcb4d7eb/transformed/recyclerview-1.2.1/res
+com.example.testapp-jetified-core-ktx-1.13.1-9 /Users/myeongjeong/.gradle/caches/8.10.2/transforms/538273fdc918a79c3b54859282434b2c/transformed/jetified-core-ktx-1.13.1/res
+com.example.testapp-jetified-core-1.0.0-10 /Users/myeongjeong/.gradle/caches/8.10.2/transforms/55a192cd1e8c493370fa6465d68c1145/transformed/jetified-core-1.0.0/res
+com.example.testapp-browser-1.8.0-11 /Users/myeongjeong/.gradle/caches/8.10.2/transforms/5683f3a75f4aae74864d56d25d09ab49/transformed/browser-1.8.0/res
+com.example.testapp-lifecycle-viewmodel-2.7.0-12 /Users/myeongjeong/.gradle/caches/8.10.2/transforms/594b8e088512a24631e5a37668efcdba/transformed/lifecycle-viewmodel-2.7.0/res
+com.example.testapp-jetified-lifecycle-livedata-core-ktx-2.7.0-13 /Users/myeongjeong/.gradle/caches/8.10.2/transforms/645c56368631721d8b7755f7e8a726a8/transformed/jetified-lifecycle-livedata-core-ktx-2.7.0/res
+com.example.testapp-jetified-tracing-1.2.0-14 /Users/myeongjeong/.gradle/caches/8.10.2/transforms/67e6cf8dd6496a1e1ab42bfbc69e3371/transformed/jetified-tracing-1.2.0/res
+com.example.testapp-sqlite-framework-2.4.0-15 /Users/myeongjeong/.gradle/caches/8.10.2/transforms/6e63d617492c9eaca7b6e68a88c23159/transformed/sqlite-framework-2.4.0/res
+com.example.testapp-jetified-annotation-experimental-1.4.1-16 /Users/myeongjeong/.gradle/caches/8.10.2/transforms/71bc0c4f568ebbce86450b445dadf8a3/transformed/jetified-annotation-experimental-1.4.1/res
+com.example.testapp-jetified-startup-runtime-1.1.1-17 /Users/myeongjeong/.gradle/caches/8.10.2/transforms/77d6589d54f70503af1ad7bd5c95eb07/transformed/jetified-startup-runtime-1.1.1/res
+com.example.testapp-jetified-activity-1.8.1-18 /Users/myeongjeong/.gradle/caches/8.10.2/transforms/7849ccecc13e92bd92ae7e14119101a3/transformed/jetified-activity-1.8.1/res
+com.example.testapp-lifecycle-livedata-2.7.0-19 /Users/myeongjeong/.gradle/caches/8.10.2/transforms/7c8820905eb370fbd3bb42d26ba8ae5a/transformed/lifecycle-livedata-2.7.0/res
+com.example.testapp-fragment-1.7.1-20 /Users/myeongjeong/.gradle/caches/8.10.2/transforms/812b0debb255957f3fcc9a2669f27c22/transformed/fragment-1.7.1/res
+com.example.testapp-jetified-lifecycle-viewmodel-savedstate-2.7.0-21 /Users/myeongjeong/.gradle/caches/8.10.2/transforms/834fbfef458f2f76792d20bc77011687/transformed/jetified-lifecycle-viewmodel-savedstate-2.7.0/res
+com.example.testapp-jetified-exoplayer-ui-2.18.1-22 /Users/myeongjeong/.gradle/caches/8.10.2/transforms/8591fc1ee39e370d68647c62b9e1a4ec/transformed/jetified-exoplayer-ui-2.18.1/res
+com.example.testapp-jetified-window-1.2.0-23 /Users/myeongjeong/.gradle/caches/8.10.2/transforms/970764a81dd610c772147726baa7dca5/transformed/jetified-window-1.2.0/res
+com.example.testapp-jetified-savedstate-1.2.1-24 /Users/myeongjeong/.gradle/caches/8.10.2/transforms/ae5f57bd372fc0b34c3bf33092f8edd1/transformed/jetified-savedstate-1.2.1/res
+com.example.testapp-work-runtime-2.10.2-25 /Users/myeongjeong/.gradle/caches/8.10.2/transforms/b120a63f328d2cdd350e58250e1646bf/transformed/work-runtime-2.10.2/res
+com.example.testapp-jetified-glide-4.14.2-26 /Users/myeongjeong/.gradle/caches/8.10.2/transforms/c6e08122817f7a81f8e98efd8737c70e/transformed/jetified-glide-4.14.2/res
+com.example.testapp-jetified-exoplayer-core-2.18.1-27 /Users/myeongjeong/.gradle/caches/8.10.2/transforms/d9181f254e5f46a0555efb7a30f4202c/transformed/jetified-exoplayer-core-2.18.1/res
+com.example.testapp-core-1.13.1-28 /Users/myeongjeong/.gradle/caches/8.10.2/transforms/deb838f5c4813d0c441214e1ddf497cc/transformed/core-1.13.1/res
+com.example.testapp-jetified-room-ktx-2.6.1-29 /Users/myeongjeong/.gradle/caches/8.10.2/transforms/dee9848d798774719e4536783b013fe6/transformed/jetified-room-ktx-2.6.1/res
+com.example.testapp-jetified-lifecycle-service-2.7.0-30 /Users/myeongjeong/.gradle/caches/8.10.2/transforms/e18fb94549ccb4f6a794ad42ccd1ec5d/transformed/jetified-lifecycle-service-2.7.0/res
+com.example.testapp-jetified-lifecycle-process-2.7.0-31 /Users/myeongjeong/.gradle/caches/8.10.2/transforms/e920d985392df03e5b02e06877a52d21/transformed/jetified-lifecycle-process-2.7.0/res
+com.example.testapp-jetified-profileinstaller-1.3.1-32 /Users/myeongjeong/.gradle/caches/8.10.2/transforms/eabc1325411a824ae74b9b450245750e/transformed/jetified-profileinstaller-1.3.1/res
+com.example.testapp-debug-33 /Users/myeongjeong/Desktop/flutter projects/bodeepsleep/android/app/src/debug/res
+com.example.testapp-main-34 /Users/myeongjeong/Desktop/flutter projects/bodeepsleep/android/app/src/main/res
+com.example.testapp-pngs-35 /Users/myeongjeong/Desktop/flutter projects/bodeepsleep/android/build/app/generated/res/pngs/debug
+com.example.testapp-resValues-36 /Users/myeongjeong/Desktop/flutter projects/bodeepsleep/android/build/app/generated/res/resValues/debug
+com.example.testapp-packageDebugResources-37 /Users/myeongjeong/Desktop/flutter projects/bodeepsleep/android/build/app/intermediates/incremental/debug/packageDebugResources/merged.dir
+com.example.testapp-packageDebugResources-38 /Users/myeongjeong/Desktop/flutter projects/bodeepsleep/android/build/app/intermediates/incremental/debug/packageDebugResources/stripped.dir
+com.example.testapp-debug-39 /Users/myeongjeong/Desktop/flutter projects/bodeepsleep/android/build/app/intermediates/merged_res/debug/mergeDebugResources
+com.example.testapp-debug-40 /Users/myeongjeong/Desktop/flutter projects/bodeepsleep/android/build/assets_audio_player/intermediates/packaged_res/debug/packageDebugResources
+com.example.testapp-debug-41 /Users/myeongjeong/Desktop/flutter projects/bodeepsleep/android/build/assets_audio_player_web/intermediates/packaged_res/debug/packageDebugResources
+com.example.testapp-debug-42 /Users/myeongjeong/Desktop/flutter projects/bodeepsleep/android/build/flutter_blue_plus_android/intermediates/packaged_res/debug/packageDebugResources
+com.example.testapp-debug-43 /Users/myeongjeong/Desktop/flutter projects/bodeepsleep/android/build/flutter_local_notifications/intermediates/packaged_res/debug/packageDebugResources
+com.example.testapp-debug-44 /Users/myeongjeong/Desktop/flutter projects/bodeepsleep/android/build/fluttertoast/intermediates/packaged_res/debug/packageDebugResources
+com.example.testapp-debug-45 /Users/myeongjeong/Desktop/flutter projects/bodeepsleep/android/build/path_provider_android/intermediates/packaged_res/debug/packageDebugResources
+com.example.testapp-debug-46 /Users/myeongjeong/Desktop/flutter projects/bodeepsleep/android/build/sensors_plus/intermediates/packaged_res/debug/packageDebugResources
+com.example.testapp-debug-47 /Users/myeongjeong/Desktop/flutter projects/bodeepsleep/android/build/sqflite_android/intermediates/packaged_res/debug/packageDebugResources
+com.example.testapp-debug-48 /Users/myeongjeong/Desktop/flutter projects/bodeepsleep/android/build/url_launcher_android/intermediates/packaged_res/debug/packageDebugResources
+com.example.testapp-debug-49 /Users/myeongjeong/Desktop/flutter projects/bodeepsleep/android/build/workmanager_android/intermediates/packaged_res/debug/packageDebugResources

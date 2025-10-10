@@ -1,0 +1,71 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.github.florent37.assets_audio_player" >
+4
+5    <uses-sdk android:minSdkVersion="1" />
+6
+7    <uses-permission android:name="android.permission.FOREGROUND_SERVICE" />
+7-->/Users/myeongjeong/.pub-cache/hosted/pub.dev/assets_audio_player-3.1.1/android/src/main/AndroidManifest.xml:4:5-77
+7-->/Users/myeongjeong/.pub-cache/hosted/pub.dev/assets_audio_player-3.1.1/android/src/main/AndroidManifest.xml:4:22-74
+8    <uses-permission android:name="android.permission.VIBRATE" />
+8-->/Users/myeongjeong/.pub-cache/hosted/pub.dev/assets_audio_player-3.1.1/android/src/main/AndroidManifest.xml:5:5-66
+8-->/Users/myeongjeong/.pub-cache/hosted/pub.dev/assets_audio_player-3.1.1/android/src/main/AndroidManifest.xml:5:22-63
+9    <uses-permission android:name="android.permission.WAKE_LOCK" />
+9-->/Users/myeongjeong/.pub-cache/hosted/pub.dev/assets_audio_player-3.1.1/android/src/main/AndroidManifest.xml:6:5-68
+9-->/Users/myeongjeong/.pub-cache/hosted/pub.dev/assets_audio_player-3.1.1/android/src/main/AndroidManifest.xml:6:22-65
+10
+11    <application>
+11-->/Users/myeongjeong/.pub-cache/hosted/pub.dev/assets_audio_player-3.1.1/android/src/main/AndroidManifest.xml:7:5-36:19
+12        <receiver
+12-->/Users/myeongjeong/.pub-cache/hosted/pub.dev/assets_audio_player-3.1.1/android/src/main/AndroidManifest.xml:8:9-14:20
+13            android:name="com.github.florent37.assets_audio_player.notification.NotificationActionReceiver"
+13-->/Users/myeongjeong/.pub-cache/hosted/pub.dev/assets_audio_player-3.1.1/android/src/main/AndroidManifest.xml:9:13-68
+14            android:exported="true" >
+14-->/Users/myeongjeong/.pub-cache/hosted/pub.dev/assets_audio_player-3.1.1/android/src/main/AndroidManifest.xml:10:13-36
+15            <intent-filter>
+15-->/Users/myeongjeong/.pub-cache/hosted/pub.dev/assets_audio_player-3.1.1/android/src/main/AndroidManifest.xml:11:13-13:29
+16                <action android:name="android.intent.action.MEDIA_BUTTON" />
+16-->/Users/myeongjeong/.pub-cache/hosted/pub.dev/assets_audio_player-3.1.1/android/src/main/AndroidManifest.xml:12:17-77
+16-->/Users/myeongjeong/.pub-cache/hosted/pub.dev/assets_audio_player-3.1.1/android/src/main/AndroidManifest.xml:12:25-74
+17            </intent-filter>
+18        </receiver>
+19        <receiver
+19-->/Users/myeongjeong/.pub-cache/hosted/pub.dev/assets_audio_player-3.1.1/android/src/main/AndroidManifest.xml:15:9-21:20
+20            android:name="com.github.florent37.assets_audio_player.notification.CustomMediaButtonReceiver"
+20-->/Users/myeongjeong/.pub-cache/hosted/pub.dev/assets_audio_player-3.1.1/android/src/main/AndroidManifest.xml:16:13-67
+21            android:exported="true" >
+21-->/Users/myeongjeong/.pub-cache/hosted/pub.dev/assets_audio_player-3.1.1/android/src/main/AndroidManifest.xml:17:13-36
+22            <intent-filter>
+22-->/Users/myeongjeong/.pub-cache/hosted/pub.dev/assets_audio_player-3.1.1/android/src/main/AndroidManifest.xml:11:13-13:29
+23                <action android:name="android.intent.action.MEDIA_BUTTON" />
+23-->/Users/myeongjeong/.pub-cache/hosted/pub.dev/assets_audio_player-3.1.1/android/src/main/AndroidManifest.xml:12:17-77
+23-->/Users/myeongjeong/.pub-cache/hosted/pub.dev/assets_audio_player-3.1.1/android/src/main/AndroidManifest.xml:12:25-74
+24            </intent-filter>
+25        </receiver>
+26
+27        <service
+27-->/Users/myeongjeong/.pub-cache/hosted/pub.dev/assets_audio_player-3.1.1/android/src/main/AndroidManifest.xml:23:9-34:19
+28            android:name="com.github.florent37.assets_audio_player.notification.NotificationService"
+28-->/Users/myeongjeong/.pub-cache/hosted/pub.dev/assets_audio_player-3.1.1/android/src/main/AndroidManifest.xml:24:13-61
+29            android:enabled="true"
+29-->/Users/myeongjeong/.pub-cache/hosted/pub.dev/assets_audio_player-3.1.1/android/src/main/AndroidManifest.xml:25:13-35
+30            android:exported="true"
+30-->/Users/myeongjeong/.pub-cache/hosted/pub.dev/assets_audio_player-3.1.1/android/src/main/AndroidManifest.xml:27:13-36
+31            android:foregroundServiceType="mediaPlayback" >
+31-->/Users/myeongjeong/.pub-cache/hosted/pub.dev/assets_audio_player-3.1.1/android/src/main/AndroidManifest.xml:26:13-58
+32            <intent-filter>
+32-->/Users/myeongjeong/.pub-cache/hosted/pub.dev/assets_audio_player-3.1.1/android/src/main/AndroidManifest.xml:28:13-30:29
+33                <action android:name="android.media.browse.MediaBrowserService" />
+33-->/Users/myeongjeong/.pub-cache/hosted/pub.dev/assets_audio_player-3.1.1/android/src/main/AndroidManifest.xml:29:17-83
+33-->/Users/myeongjeong/.pub-cache/hosted/pub.dev/assets_audio_player-3.1.1/android/src/main/AndroidManifest.xml:29:25-80
+34            </intent-filter>
+35            <intent-filter>
+35-->/Users/myeongjeong/.pub-cache/hosted/pub.dev/assets_audio_player-3.1.1/android/src/main/AndroidManifest.xml:11:13-13:29
+36                <action android:name="android.intent.action.MEDIA_BUTTON" />
+36-->/Users/myeongjeong/.pub-cache/hosted/pub.dev/assets_audio_player-3.1.1/android/src/main/AndroidManifest.xml:12:17-77
+36-->/Users/myeongjeong/.pub-cache/hosted/pub.dev/assets_audio_player-3.1.1/android/src/main/AndroidManifest.xml:12:25-74
+37            </intent-filter>
+38        </service>
+39    </application>
+40
+41</manifest>
